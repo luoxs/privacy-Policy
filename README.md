@@ -1,7 +1,4 @@
-# privacy-Policy
-Here is the translation of the provided privacy policy into English:
 
----
 
 **Preamble**
 
