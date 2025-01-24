@@ -1,44 +1,61 @@
+# Privacy Policy for Trekool Air Conditioner
 
+**Effective Date:** 2025.1.24
 
-**Preamble**
+Trekool Air Conditioner we values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect your data when you use our air conditioner application ("App").
 
-This application respects and protects your privacy. To provide you with more accurate and personalized services, we may collect and use your information when you use our application. The "Privacy Policy" will explain how we collect, use, store, and share this information while you use our services. We treat this information with a high degree of diligence and prudence and use and disclose your personal information in accordance with the provisions of this Privacy Policy. By using or continuing to use our services, you agree to all the contents of this Privacy Policy, and you agree that we can collect, use, store, and share your information as stipulated in this "Privacy Policy".
+By using our App, you agree to the collection and use of your data in accordance with this policy.
 
-1. **Collection of Information**
+## 1. Information We Collect
 
-When we need information that can identify you (personal information) or information that can contact you, we will seek your consent. You understand and agree that the following information does not apply to this Privacy Policy:
-   - Keywords entered by you when using the search service provided by this application platform.
-   - Actions violating laws or regulations or this application's rules and measures taken by this application against such actions.
+We may collect the following types of information when you use our App:
 
-2. **Use of Information**
+- **Personal Information**: When you register or sign in to the App, we may collect personal information such as your name, email address, and contact information.
+- **Device Information**: We may collect information about your device, including its model, operating system, and unique identifiers (such as Bluetooth ID, MAC address) to improve functionality and enhance your experience.
+- **Usage Data**: We collect usage data, such as how you interact with the App, settings preferences, and the performance of the app features. This data is used for analytics and improving our services.
+- **Location Data**: If enabled, the App may collect your device’s location data to provide location-based services, such as proximity to nearby air conditioners.
 
-   - We will not provide, sell, lease, share, or trade your personal information with any irrelevant third party unless we have obtained your prior permission, or the third party and this application (including associated companies of this application) provide services to you individually or jointly, and after the service ends, they will be prohibited from accessing all these materials which they were able to access before.
-   - We also do not permit any third party to collect, edit, sell, or spread your personal information without charge by any means. If any user of this application platform engages in such activities, once discovered, this application has the right to immediately terminate the service agreement with that user.
-   - Based on the purpose of serving users, this application may use your personal information to provide you with information services within similar products of the company, including but not limited to sending product and service information to you, or sharing information with partners of this application so they can send relevant product and service information to you (the latter requires your prior consent).
+## 2. How We Use Your Information
 
-3. **Disclosure of Information**
+We use the collected information for the following purposes:
 
-Under the following circumstances, this application will disclose your personal information in whole or in part according to your personal wishes or legal requirements:
-   - Disclose to a third party with your prior consent;
-   - Share your personal information with a third party to provide the products and services you request;
-   - According to legal provisions, or at the request of administrative or judicial institutions, disclose to third parties or administrative, judicial institutions;
-   - If you violate Chinese laws, regulations, or this application's service agreement or related rules, it is necessary to disclose to a third party;
-   - If you are a qualified intellectual property complainant and have filed a complaint, disclose to the complained party upon their request to resolve potential rights disputes;
-   - In transactions created on this application platform, if one party fulfills or partially fulfills the transaction obligations and requests information disclosure, this application has the right to decide to provide the other party's contact information to facilitate the completion of the transaction or resolution of disputes.
-   - Other disclosures that this application deems appropriate based on laws, regulations, or website policies.
+- To personalize your experience with the App.
+- To provide and improve the functionality of the App.
+- To monitor and analyze usage trends and improve our services.
+- To communicate with you, including sending updates, promotions, or notifications related to the App.
+- To ensure the security and integrity of the App and prevent fraudulent activity.
 
-4. **Information Storage and Exchange**
+## 3. Sharing Your Information
 
-This application will not collect information about you and save it on the servers of this application and/or its affiliated companies.
+We do not share your personal information with third parties, except as described below:
 
-5. **Information Security**
+- **Service Providers**: We may share your data with third-party service providers who assist us in operating the App or providing certain services on our behalf (e.g., cloud hosting, analytics services). These service providers are only permitted to use your information to perform services on our behalf.
+- **Legal Compliance**: We may disclose your information if required by law, or in response to valid requests by public authorities (e.g., a court or government agency).
 
-We offer multiple ways to ensure that your personal information is accurate and up-to-date. You can review or edit the personal information you submit to us at any time, and you can also delete the personal information you submit at any time. We strictly protect the security of your personal information. We use various security technologies and procedures to protect your personal information from unauthorized access, use, or leakage. Please keep your username and password information safe. This application will ensure that your information is not lost, misused, or falsified through measures such as encrypting user passwords. Despite these security measures, please note that there are no "perfect security measures" on the information network.
+## 4. Data Security
 
-6. **Changes to This Privacy Policy**
+We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, please note that no method of data transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
 
-As online platform services improve, the content of the privacy policy will be updated from time to time. Once the updated privacy policy is published on this application, it will effectively replace the previous privacy policy. We encourage you to regularly check this page to learn about our latest privacy protection measures.
+## 5. Your Rights and Choices
 
----
+You have the following rights regarding your personal information:
 
-If you require further assistance or specific parts of the policy need more detailed explanation, feel free to ask.
+- **Access**: You can request access to the personal information we hold about you.
+- **Correction**: You can update or correct any inaccurate or incomplete personal information.
+- **Deletion**: You can request that we delete your personal information, subject to legal requirements.
+- **Opt-out**: You can choose to opt out of receiving promotional communications by following the unsubscribe instructions in our emails or adjusting your settings within the App.
+
+## 6. Children’s Privacy
+
+Our App is not intended for use by children under the age of 13. We do not knowingly collect or solicit personal information from children. If we learn that we have inadvertently collected information from a child under 13, we will take steps to delete that information.
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we make changes, we will revise the "Effective Date" at the top of this page. We encourage you to review this Privacy Policy periodically for any updates.
+
+## 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
+
+- **Email**:isoluo@gmail.com
+
